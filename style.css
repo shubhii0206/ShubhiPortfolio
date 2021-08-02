@@ -23,7 +23,7 @@ html {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: rgb(66, 66, 66);
 }
 
 /* all similar content styling codes */
